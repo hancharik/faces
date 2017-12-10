@@ -3,8 +3,11 @@
 
 
 
-
-
+#' @title Here
+#' @description Yay
+#' @author Me
+#' @export
+#' @example 2X2
 
 vector_eater = function(x, z) {
   temp_length <- length(x)
@@ -21,7 +24,7 @@ vector_eater = function(x, z) {
 
 
 
-
+#' @export
 
 vector_setter = function(x, y, z) {
   counter = 1
@@ -54,7 +57,7 @@ vector_setter = function(x, y, z) {
 
 
 
-
+#' @export
 vector_chooser = function(x, y, z) {
   counter = 1
 
@@ -79,7 +82,7 @@ vector_chooser = function(x, y, z) {
 
 
 
-
+#' @export
 
 vector_face = function(xam){
 
@@ -220,6 +223,8 @@ convert_csv = function(x){
 
 
 ###########################################################
+
+#' @export
 four_face = function(v, name = ""){
 
   black_and_white <- FALSE
@@ -313,7 +318,7 @@ four_face = function(v, name = ""){
 ###########################################################
 
 ###########################################################
-
+#' @export
 read_table = function(x){
 
 
