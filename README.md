@@ -4,7 +4,7 @@
 
 
 
-[(https://hancharik.github.io/faces/](https://hancharik.github.io/faces/) 
+[https://hancharik.github.io/faces/](https://hancharik.github.io/faces/) 
 
  ![Normalized face](docs/facenorm.png)
 
