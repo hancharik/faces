@@ -144,6 +144,8 @@ random_vector = function(){
 
 #############################################################
 
+#' @export
+
 convert_csv = function(x){
   # 1) get a data frame from a csv file
 
