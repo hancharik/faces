@@ -1,10 +1,10 @@
-### Faces
+## Faces
 
-## An R package for displaying multivariate data through a quasi-Chernoff visualization 
+### An R package for displaying multivariate data through a quasi-Chernoff visualization 
 
 
 
-[Website](https://hancharik.github.io/faces/) 
+[(https://hancharik.github.io/faces/](https://hancharik.github.io/faces/) 
 
  ![Normalized face](docs/facenorm.png)
 
